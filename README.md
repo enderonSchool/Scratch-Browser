@@ -4,6 +4,7 @@
 #Version 1.0.0 Initial Relese
 - Search up any scratch project ID and play it
 - The most basic idea for this project
+- Also the .zip has the .html and .js files(css is in the html's head, as its easier to edit)
 ---
 ### Its all open sorce anyway so i'll share my code
 #### This is everything important
