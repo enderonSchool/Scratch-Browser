@@ -13,3 +13,5 @@ Then combines it with other things to make a link
 `let link = "https://scratch.mit.edu/projects/" + id.toString() + "/embed"`
 Then it makes an iframe, but because the src is a variable it has to add it seprately
 `document.getElementById("id of the empty div").innerHTML = '<iframe /*iframe stuff */></iframe>`
+Finally, it sets the src of the iframe to the link
+`document.getElementById("iframe id").src = link`
